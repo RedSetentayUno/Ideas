@@ -29,9 +29,9 @@ Para: web (About), galerías, concursos. La guía marca 150-200 palabras; esta q
 >
 > Casi nunca planeo la foto. Algo me mueve, me provoca y disparo. Luego cuando las veo, lo entiendo. Pero todavía no sé del todo qué es lo que me motiva a hacer esa foto. Por eso necesito verlas juntas. El sentido aparece en el conjunto. No me molesta que salgan movidas, con grano o casi a oscuras.
 >
-> Y me gustaría que quien mire mis fotos se pare también un momento y se pregunte qué le mueve.
+> Y me gustaría que quien mire mis fotos se pare también un momento y se pregunte qué le motiva.
 
-Ajustes aplicados: se añadió el "Pero" antes de "todavía no sé" y el cierre pasó a "se pregunte qué le mueve". Se mantiene sin "Soy piloto" explícito, por decisión de Juanma.
+Ajustes aplicados: se añadió el "Pero" antes de "todavía no sé" y el cierre pasó a "se pregunte qué le motiva". Se mantiene sin "Soy piloto" explícito, por decisión de Juanma.
 
 ---
 
