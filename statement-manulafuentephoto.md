@@ -21,21 +21,19 @@ Para: Instagram, LinkedIn, presentación en persona.
 >
 > Casi nunca planeo la foto. Algo me mueve, me provoca y disparo. Luego, cuando las veo, lo entiendo. Pero todavía no sé del todo qué es lo que me mueve dentro.
 
-## 2. Statement de autor — VERSIÓN MEDIA (versión de Juanma, ~131 palabras)
+## 2. Statement de autor — VERSIÓN MEDIA (versión de Juanma, ~133 palabras)
 
 Para: web (About), galerías, concursos. La guía marca 150-200 palabras; esta queda algo por debajo.
 
 > Hago fotografía de calle, retrato, arquitectura y paisaje, sobre todo desde el avión. La rutina es parte de mi trabajo: las mismas pistas, los mismos aeropuertos, los mismos horarios. Pero hay algo que cambia cada día. La luz. Me llaman la atención las formas de la naturaleza, la geometría de los edificios, el color. Lo perfecto y lo imperfecto.
 >
-> Casi nunca planeo la foto. Algo me mueve, me provoca y disparo. Luego cuando las veo, lo entiendo. Todavía no sé del todo qué es lo que me motiva a hacer esa foto. Por eso necesito verlas juntas. El sentido aparece en el conjunto. No me molesta que salgan movidas, con grano o casi a oscuras.
+> Casi nunca planeo la foto. Algo me mueve, me provoca y disparo. Luego cuando las veo, lo entiendo. Pero todavía no sé del todo qué es lo que me motiva a hacer esa foto. Por eso necesito verlas juntas. El sentido aparece en el conjunto. No me molesta que salgan movidas, con grano o casi a oscuras.
 >
-> Y me gustaría que quien mire mis fotos se pare también un momento y se lo pregunte.
+> Y me gustaría que quien mire mis fotos se pare también un momento y se pregunte qué le mueve.
 
-Detalles a decidir (sugerencias de Claude, no aplicadas):
+Ajustes aplicados: se añadió el "Pero" antes de "todavía no sé" y el cierre pasó a "se pregunte qué le mueve". Se mantiene sin "Soy piloto" explícito, por decisión de Juanma.
 
-- "Luego cuando las veo, lo entiendo. Todavía no sé…" se contradice sin el "Pero" que tenía la versión corta. Opción: "Pero todavía no sé del todo…".
-- "se lo pregunte" queda lejos de su antecedente (la frase sobre lo que te motiva). Opción: acercarla a esa frase o decir "se pregunte qué le mueve".
-- El texto ya no dice "Soy piloto", solo lo implica. Decidir si se quiere explícito.
+---
 
 ## 3. Statement de proyecto — Cuaderno de Bitácora (borrador tuyo, pendiente de ampliar)
 
