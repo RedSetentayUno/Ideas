@@ -61,13 +61,13 @@ Observaciones abiertas: "La luz." aparece dos veces ("cambia cada día. La luz."
 
 ---
 
-## 2c. Statement de autor — VERSIÓN DE JUANMA (vigente, ~226 palabras)
+## 2c. Statement de autor — VERSIÓN DE JUANMA (vigente, ~228 palabras)
 
 Reescritura propia a partir de la unificada (2b). Sustituye a 2 y 2b como texto de referencia para web.
 
 > Cuando hago una foto intento capturar un lugar, una luz, un gesto, un momento que en un segundo ya ha cambiado. Casi nunca planeo la foto. Algo me mueve, me provoca y disparo.
 >
-> Me llaman la atención las formas de la naturaleza, la geometría de los edificios, el color y las sombras. Lo perfecto y lo imperfecto. No me importa que salgan movidas, con grano o casi a oscuras. En ese momento no sé qué es lo que me motiva a hacer esa foto. Luego, cuando las veo, lo entiendo. A veces no sé ponerle nombre, pero reconozco la sensación.
+> Me llaman la atención las formas de la naturaleza, la geometría de los edificios, las personas, el color y las sombras. Lo perfecto y lo imperfecto. No me importa que salgan movidas, con grano o casi a oscuras. En ese momento no sé qué es lo que me motiva a hacer esa foto. Luego, cuando las veo, lo entiendo. A veces no sé ponerle nombre, pero reconozco la sensación.
 >
 > La rutina es parte de mi trabajo: las mismas pistas, los mismos aeropuertos, los mismos horarios. Pero hay algo que cambia cada día. La luz. No sé cuántos amaneceres he visto, ni cuántos atardeceres. Lo que sí me queda en el recuerdo es la luz. Siempre la luz. Hay un momento en que el mundo deja de ser reconocible: las montañas son sombras, los mares son espejos, las ciudades se iluminan sobre el fondo negro. Muchas veces he pensado que nadie más estaba viendo exactamente lo que yo veía.  
 > Estas fotografías son el intento de guardar esos momentos, y de compartirlos.
@@ -76,7 +76,7 @@ Reescritura propia a partir de la unificada (2b). Sustituye a 2 y 2b como texto 
 
 Notas de revisión (sugerencias de Claude, no aplicadas):
 
-- Ya no menciona calle ni retrato (se quitó "en la calle, delante de alguien o durante un viaje"). Si esos géneros importan, el texto no los recoge.
+- Se añadió "las personas" a la lista de lo que llama la atención, para recoger calle y retrato sin nombrarlos (antes se había quitado "en la calle, delante de alguien o durante un viaje").
 - Ya no aparece el titular "Espectador de paisajes y momentos que no se repiten." (de la web anterior).
 - "A veces, desde allí arriba, entiendo lo de aquí abajo." queda separada del párrafo de la luz; si se quiere un cierre más limpio, volvería al final del párrafo 3.
 
