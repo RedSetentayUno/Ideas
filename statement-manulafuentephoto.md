@@ -61,10 +61,12 @@ Observaciones abiertas: "La luz." aparece dos veces ("cambia cada día. La luz."
 
 ---
 
-## 2c. Statement de autor — VERSIÓN DE JUANMA (vigente, ~228 palabras)
+## 2c. Statement de autor — VERSIÓN DE JUANMA (vigente, ~236 palabras con cabecera)
 
 Reescritura propia a partir de la unificada (2b). Sustituye a 2 y 2b como texto de referencia para web.
 
+> **Espectador de paisajes y momentos que no se repiten.**
+>
 > Cuando hago una foto intento capturar un lugar, una luz, un gesto, un momento que en un segundo ya ha cambiado. Casi nunca planeo la foto. Algo me mueve, me provoca y disparo.
 >
 > Me llaman la atención las formas de la naturaleza, la geometría de los edificios, las personas, el color y las sombras. Lo perfecto y lo imperfecto. No me importa que salgan movidas, con grano o casi a oscuras. En ese momento no sé qué es lo que me motiva a hacer esa foto. Luego, cuando las veo, lo entiendo. A veces no sé ponerle nombre, pero reconozco la sensación.
@@ -76,7 +78,7 @@ Reescritura propia a partir de la unificada (2b). Sustituye a 2 y 2b como texto 
 Notas de revisión (sugerencias de Claude, no aplicadas):
 
 - Se añadió "las personas" a la lista de lo que llama la atención, para recoger calle y retrato sin nombrarlos (antes se había quitado "en la calle, delante de alguien o durante un viaje").
-- Ya no aparece el titular "Espectador de paisajes y momentos que no se repiten." (de la web anterior).
+- Se recuperó como cabecera el titular "Espectador de paisajes y momentos que no se repiten." (de la web anterior).
 - Reordenado por Juanma: "A veces, desde arriba, entiendo lo de aquí abajo." (sin "allí") pasa al final del párrafo de la luz, justo tras "lo que yo veía", seguida de la frase sobre quien mira. El texto cierra con "Estas fotografías son el intento de guardar esos momentos, y de compartirlos."
 
 ---
