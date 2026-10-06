@@ -35,6 +35,32 @@ Ajustes aplicados: se añadió el "Pero" antes de "todavía no sé" y el cierre 
 
 ---
 
+## 2b. Statement de autor — VERSIÓN UNIFICADA (web actual + versión media, ~253 palabras)
+
+Une el texto que ya estaba en la web con la versión media. Las frases son todas de Juanma, sin cambios internos. Solo se reordenó, se quitó una frase redundante y se unieron los dos cierres.
+
+> **Espectador de paisajes y momentos que no se repiten.**
+>
+> Cuando hago una foto intento capturar una luz, un gesto, un lugar que en un momento ya es otro. Da igual dónde sea, en la calle, delante de alguien o durante un viaje: lo que busco es ese instante que no vuelve.
+>
+> La rutina es parte de mi trabajo: las mismas pistas, los mismos aeropuertos, los mismos horarios. Pero hay algo que cambia cada día. La luz. Me llaman la atención las formas de la naturaleza, la geometría de los edificios, el color. Lo perfecto y lo imperfecto.
+>
+> Casi nunca planeo la foto. Algo me mueve, me provoca y disparo. Luego cuando las veo, lo entiendo. Pero todavía no sé del todo qué es lo que me motiva a hacer esa foto. Por eso necesito verlas juntas. El sentido aparece en el conjunto. No me molesta que salgan movidas, con grano o casi a oscuras.
+>
+> No sé cuántos amaneceres he visto, ni cuántos atardeceres. Lo que sí me queda en el recuerdo es la luz. Siempre la luz. Hay un momento en que el mundo deja de ser reconocible: las montañas son sombras, los mares son espejos, las ciudades se iluminan sobre el fondo negro. Muchas veces he pensado que nadie más estaba viendo exactamente lo que yo veía. A veces, desde allí arriba, entiendo lo de aquí abajo.
+>
+> Estas fotografías son el intento de guardar esos momentos, y de compartirlos. Y me gustaría que quien mire mis fotos se pare también un momento y se pregunte qué le motiva.
+
+Cambios respecto a los dos textos originales:
+
+1. Se quitó "Hago fotografía de calle, retrato, arquitectura y paisaje, sobre todo desde el avión.": repite lo que ya dice "en la calle, delante de alguien o durante un viaje" y "desde allí arriba". Alternativa: conservarla y cortar la lista del texto de la web.
+2. Orden: web (instante) → rutina y luz → método → web (amaneceres) → cierre.
+3. Los dos cierres se unieron con "Y".
+
+Observaciones abiertas: "La luz." aparece dos veces ("cambia cada día. La luz." y "Siempre la luz."); puede ser eco buscado o cortarse la primera. "Siempre la luz." es una línea tuya, válida como frase para firma de email.
+
+---
+
 ## 3. Statement de proyecto — Cuaderno de Bitácora (borrador tuyo, pendiente de ampliar)
 
 > Soy piloto, y la rutina es parte de mi trabajo. Las mismas pistas, los mismos aeropuertos, los mismos horarios, pero hay algo que cambia cada día. La luz.
